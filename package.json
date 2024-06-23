@@ -1,0 +1,28 @@
+{
+  "name": "autoweb2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sabina7350/AutoWeb2.0.git"
+  },
+  "author": "Sabina Zholtaeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabina7350/AutoWeb2.0/issues"
+  },
+  "homepage": "https://github.com/sabina7350/AutoWeb2.0#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^9.5.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "globals": "^15.6.0",
+    "prettier": "3.3.2"
+  }
+}
